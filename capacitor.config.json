@@ -1,0 +1,6 @@
+{
+  "appId": "com.hsksmart.learning",
+  "appName": "HSK Smart Learning",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
